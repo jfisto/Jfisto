@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfisto&show_icons=true&theme=onedark&locale=en" alt="jfisto" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jfisto&theme=onedark&locale=en" alt="jfisto" />
 </p>
