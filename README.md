@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=jfisto&theme=onedark" alt="jfisto" />
 </p>
+
 - 🔭I am currently working at Solar JSOC on **cyber defense projects**
 
 - 👯 I’m looking to collaborate on **the development of cybersecurity services**
@@ -35,8 +36,9 @@ Here are some ideas to get you started:
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfisto&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jfisto" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfisto&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jfisto" />
 </p>
-<h>
-</h>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfisto&show_icons=true&theme=onedark&locale=en" alt="jfisto" /></p>
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfisto&show_icons=true&theme=onedark&locale=en" alt="jfisto" />
+</p>
