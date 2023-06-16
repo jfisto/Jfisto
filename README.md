@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfisto&show_icons=true&locale=en&theme=onedark" alt="jfisto" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfisto&show_icons=true&locale=en&layout=compact&theme=Light" alt="jfisto" />
 </p>
 
 <p>&nbsp;
