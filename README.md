@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=jfisto&theme=onedark" alt="jfisto" />
 </p>
 
-- 🔭I am currently working at Solar JSOC on **cyber defense projects**
+- 🔭I am currently working at X5 Tech SOC, ex-Solar JSOC on **cyber defense projects**
 
 - 👯 I’m looking to collaborate on **the development of cybersecurity services**
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Cyber Security Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -87,12 +87,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
 </p>
-
-<h3 align="left">Security Tech</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfisto&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jfisto"/>
