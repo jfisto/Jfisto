@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=jfisto&theme=onedark" alt="jfisto" />
-</p>
-
 - 🔭I am currently working at ex-Solar JSOC on **cyber defense projects**
 
 - 👯 I’m looking to collaborate on **the development of cybersecurity services**
